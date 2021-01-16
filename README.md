@@ -1,6 +1,12 @@
 # Interact with Web Shells Using Python
 Whether you're a seasoned penetration tester or a beginner, the field of penetration testing is a mile long and a mile deep; the opportunities within all the disciplines are endless. Offensive Security offers an advanced course called Advanced Web Attacks and Exploitation (AWAE) https://www.offensive-security.com/awae-oswe/ that focuses on white box web app penetration tests. 
 
+## Disclaimer
+
+This repository and the data provided has been created purely for the purposes of academic research and for the development of effective security techniques and is not intended to be used to attack systems except where explicitly authorized. It is your responsibility to obey all applicable local, state and federal laws. 
+
+Project maintainers assume no liability and are not responsible for any misuse or damage caused by the data therein.
+
 ## Objectives
 Prior to registering for the course, you should ensure that you are familiar with writing scripts in at least one programming language. It is a common recommendation for you to focus on python and it's requests library. Interacting with web shells is a great way to practice both. However, once you start to get the hang of how it works, you could practice this with any language, all from your Kali Linux. Let's get our feet wet:
 
